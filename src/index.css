@@ -36,7 +36,7 @@ body {
 }
 
 .box p {
-  font-size: 0.5rem;
+  font-size: 1rem;
   color: var(--neonGreen);
 }
 
@@ -84,5 +84,8 @@ body {
   }
   .show {
     display: block;
+  }
+  .box p {
+    font-size: 1.8rem;
   }
 }
